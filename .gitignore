@@ -1,0 +1,12 @@
+#Ignore Java dependencies
+
+target/
+*.class
+
+#Ignore Node.js dependencies
+node_modules/
+build
+
+#Ignore environment variables
+.env
+application.properties
