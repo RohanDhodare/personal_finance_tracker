@@ -1,7 +1,7 @@
 #Ignore Java dependencies
 
-backend/target/
-backend/.mvn/
+backend/personal_finance_api/target/
+backend/personal_finance_api/.mvn/
 *.class
 *.log
 
@@ -11,4 +11,8 @@ frontend/build/
 
 #Ignore environment variables
 .env
-application.properties
+backend/personal_finance_api/src/main/resources/application.properties
+
+# IntelliJ / VS Code settings
+.idea/
+.vscode/
