@@ -11,7 +11,7 @@ frontend/build/
 
 #Ignore environment variables
 .env
-backend/personal_finance_api/src/main/resources/application.properties
+#backend/personal_finance_api/src/main/resources/application.properties
 
 # IntelliJ / VS Code settings
 .idea/
