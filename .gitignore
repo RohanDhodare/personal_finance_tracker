@@ -16,3 +16,4 @@ frontend/build/
 # IntelliJ / VS Code settings
 .idea/
 .vscode/
+backend/.project
